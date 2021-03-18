@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# AppFwk = Application Metadata Framework.
 
-You can use the [editor on GitHub](https://github.com/appfwk/appfwk/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+https://appfwk.tk/
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Features
 
-### Markdown
+### Metadata Modeling.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Metadata is core concept of our App Framework. When you have metadata you are able to do everything.
 
-```markdown
-Syntax highlighted code block
+* UI Metadata modeling
+* Multi tenant and multi project envrionment
+* Versioning
+* Check our targets bellow
 
-# Header 1
-## Header 2
-### Header 3
+### OpenAPI Target
 
-- Bulleted
-- List
+Replacement for apps like SwaggerHub, apiary, ...
 
-1. Numbered
-2. List
+* UI Metadata Api Definition
+* Re-Use meta models for API inputs and outputs
+* Versioning
+* No OpenApi, JSon, Yaml, ... skills are required
+* No development skills are required
+* Security included
 
-**Bold** and _Italic_ and `Code` text
+### Other Targets in progress
 
-[Link](url) and ![Image](src)
-```
+Target is transformation metadata in something real. Check our targets and plans. Your suggestion is welcome.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* REST API (OpenApi)
+* Source Code Generators (Models, Services, APIs)
+* Software Documentation
+* Apps Generators
+* Libraries for programming with metadata
+* .NET Reflection replacement
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/appfwk/appfwk/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Do you have any question? Do not hesitate to Contact us [https://appfwk.tk](https://appfwk.tk/)
